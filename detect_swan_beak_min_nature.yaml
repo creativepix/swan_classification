@@ -1,0 +1,11 @@
+
+path: D:/vlad/min_nature/data/datasets/yolo_swan_beak  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+#test:  # test images (optional)
+
+# Classes
+names:
+  0: mute
+  1: whooper
+  2: bewick
